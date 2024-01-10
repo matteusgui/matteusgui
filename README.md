@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Intro
+
+Hi there, my name is Matteus Souza.
+
+I'm currently studying Computer Engeneering at Universidade Federal de São Carlos (UFSCar).
+
+I made a Cientific Initiation on Machine Learning. More specifically on graph Machine Learning for topics extraction.
